@@ -16,13 +16,13 @@ A lo largo de estos ejercicios instalarás y autenticarás Copilot CLI, y despu�
 |----------|-------|-------------|
 | [0. Requisitos previos][ex0] | Configuración | Crea tu repositorio y tu codespace |
 | [1. Instalación de Copilot CLI][ex1] | Instalación | Instala y autentica Copilot CLI |
-| [2. Instrucciones personalizadas][ex2] | Contexto | Añade una instrucción y comprueba cómo la sigue Copilot CLI |
-| [3. Generación de código][ex3] | Generación de código | Usa el modo de planificación y genera funcionalidades |
-| [4. Pruebas con Playwright MCP][ex4] | Herramientas externas | Añade el servidor MCP de Playwright y prueba tu funcionalidad en un navegador |
+| [2. Valoraciones con estrellas][ex2] | Primera funcionalidad | Realiza un cambio pequeño y abre tu primera solicitud |
+| [3. Modos de agente][ex3] | Generación de código | Usa Plan y Autopilot para generar funcionalidades |
+| [4. Instrucciones personalizadas][ex4] | Contexto | Añade instrucciones y comprueba cómo las sigue Copilot CLI |
 | [5. Habilidades de agente][ex5] | Habilidades | Mejora Copilot con habilidades especializadas |
-| [6. Agentes personalizados][ex6] | Agentes | Revisa y usa agentes personalizados |
-| [7. Comandos de barra][ex7] | Funciones de CLI | Explora el contexto, los modelos, el uso compartido y la delegación opcional al agente en la nube |
-| [9. Repaso][ex9] | Resumen | Repasa los conceptos clave y los próximos pasos |
+| [6. Playwright MCP][ex6] | Herramientas externas | Prueba tu funcionalidad en un navegador |
+| [7. Agente de QA][ex7] | Agentes | Crea y usa un agente de QA |
+| [9. Herramientas avanzadas][ex9] | Funciones de CLI | Explora los comandos de barra y la delegación opcional |
 | [Opcional: incorpora Foundry][foundry] | Agentes hospedados | Prepara un modelo, crea y despliega el concierge y conéctalo al sitio web en tres módulos |
 
 ## Requisitos previos
@@ -47,11 +47,11 @@ Antes de asistir a este taller, asegúrate de tener:
 
 [ex0]: 0-prerequisites/
 [ex1]: 1-install-copilot-cli/
-[ex2]: 2-custom-instructions/
-[ex3]: 3-generating-code/
-[ex4]: 4-mcp/
+[ex2]: 2-add-star-rating/
+[ex3]: 3-agent-modes/
+[ex4]: 4-custom-instructions/
 [ex5]: 5-agent-skills/
-[ex6]: 6-custom-agents/
-[ex7]: 7-slash-commands/
+[ex6]: 6-mcp-playwright/
+[ex7]: 7-qa-agent/
 [foundry]: 8-foundry-agent/
-[ex9]: 9-review/
+[ex9]: 9-cli-power-tools/
